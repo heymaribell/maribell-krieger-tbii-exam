@@ -3,8 +3,8 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 import random
 
-screen_height = 750
-screen_width = 420
+
+
 
 
 def clear_widgets(root):
